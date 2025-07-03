@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import { NavData } from '../utils/navdata'
+import { NavData } from '../utils/NavData'
 
 const Navbar = () => {
   return (
